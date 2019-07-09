@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day 4 - SNQ+LL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 5 - SNQ+LL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 6 - SNQ+LL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 7 - SNQ+LL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 3 - SNQ+LL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 8 - HM+Heaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 9 - HM+Heaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 10 - HM+Heaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 11 - HM+Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashMap + Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack + Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashMap + Heaps 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays and Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dyanamic Programming &amp; Greedy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
