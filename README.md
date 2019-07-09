@@ -1,1 +1,1 @@
-# Interview-prep
+# Competitive-Programming
