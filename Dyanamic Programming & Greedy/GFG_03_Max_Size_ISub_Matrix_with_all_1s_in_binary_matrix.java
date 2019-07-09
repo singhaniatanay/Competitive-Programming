@@ -51,7 +51,6 @@ public class GFG_03_Max_Size_ISub_Matrix_with_all_1s_in_binary_matrix {
                 }
             }
         }
-
         for (int i = maxI; i>maxVal-maxI ; i--) {
             for (int j = maxJ; j>maxVal-maxJ ; j++) {
                 System.out.print(matrix[i][j]+" ");
