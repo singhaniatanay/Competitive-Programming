@@ -16,7 +16,9 @@ Installation
 ---------------
 Clone the GitHub Repository.
 
-`$ git clone https://github.com/singhaniatanay/Competitive-Programming`
+```
+$ git clone https://github.com/singhaniatanay/Competitive-Programming
+```
 
 Contributing
 ------------
