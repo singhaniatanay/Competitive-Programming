@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Arrays and Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Dyanamic Programming &amp; Greedy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BITWISE ALGORITHMS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basic Code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
