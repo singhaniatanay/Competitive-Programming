@@ -21,6 +21,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BITWISE ALGORITHMS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basic Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CODECHEF/August-Long-Challenge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CODECHEF" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
