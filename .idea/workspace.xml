@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="230a22ad-eae2-4294-b03d-f7ad2ecda0f0" name="Default Changelist" comment="" />
+    <list default="true" id="230a22ad-eae2-4294-b03d-f7ad2ecda0f0" name="Default Changelist" comment="Changes ReadMe.md">
+      <change afterPath="$PROJECT_DIR$/Graphs/D60_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/D60_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/D60_Representation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Competitive Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Competitive Programming.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays and Strings/sample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="336">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,10 +36,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D36_ChessBoard.java">
+        <entry file="file://$PROJECT_DIR$/HashMap + Heap/D8_double_pair_array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="168">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CODECHEF/August-Long-Challenge/MSNSADM1_Football.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="23" column="19" selection-start-line="7" selection-start-column="7" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,13 +56,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basic Code/CompetitiveProgrammingCode.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CODECHEF/August-Long-Challenge/DSTAPLS_Distribute_Apples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="231">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphs/D60_Representation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-261">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphs/D60_BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="69" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Graph#0;class#D60_BFS#0" />
+                <element signature="method#Graph#0;class#Graph#0;class#D60_BFS#0" />
+                <element signature="method#addEdge#0;class#Graph#0;class#D60_BFS#0" />
+                <element signature="method#printGraph#0;class#Graph#0;class#D60_BFS#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graphs/D60_DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Graph#0;class#Graph#0;class#D60_DFS#0" />
+                <element signature="method#addEdge#0;class#Graph#0;class#D60_DFS#0" />
+                <element signature="method#printGraph#0;class#Graph#0;class#D60_DFS#0" />
+                <element signature="method#BFS#0;class#Graph#0;class#D60_DFS#0" />
               </folding>
             </state>
           </provider>
@@ -81,13 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D23_GoldMine.java" />
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D23_GoldMineTabulated.java" />
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D23_Palindrome_Substring.java" />
-        <option value="$PROJECT_DIR$/Arrays and Strings/InterviewBIT_Inversions.java" />
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D21_Longest_Increasing_Sequence.java" />
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Rod_Cutting.java" />
-        <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Rod_Cutting_Memoized.java" />
         <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Coin_Change_Tabulated.java" />
         <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Coin_Change_Permutations.java" />
         <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D25_Friends_Pairing_Problem.java" />
@@ -132,14 +184,20 @@
         <option value="$PROJECT_DIR$/CompetitiveProgrammingCode.java" />
         <option value="$PROJECT_DIR$/Arrays and Strings/sample.java" />
         <option value="$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D36_ChessBoard.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/HashMap + Heap/D8_double_pair_array.java" />
+        <option value="$PROJECT_DIR$/CODECHEF/August-Long-Challenge/MSNSADM1_Football.java" />
+        <option value="$PROJECT_DIR$/CODECHEF/August-Long-Challenge/DSTAPLS_Distribute_Apples.java" />
+        <option value="$PROJECT_DIR$/Graphs/D60_BFS.java" />
+        <option value="$PROJECT_DIR$/Graphs/D60_Representation.java" />
+        <option value="$PROJECT_DIR$/Graphs/D60_DFS.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1080" />
-    <option name="y" value="-247" />
+    <option name="y" value="23" />
     <option name="width" value="1080" />
-    <option name="height" value="1297" />
+    <option name="height" value="955" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -149,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,11 +215,15 @@
               <item name="Competitive Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Competitive Programming" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Competitive Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -191,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sample">
+  <component name="RunManager" selected="Application.D60_DFS">
     <configuration name="D11_is_array_contiguous" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D11_is_array_contiguous" />
       <module name="Competitive Programming" />
@@ -199,15 +262,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D26_4_Keys_Keyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D26_4_Keys_Keyboard" />
+    <configuration name="D60_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D60_BFS" />
       <module name="Competitive Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D35_Count_Of_N_plus_i_equals_n_xor_i" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D35_Count_Of_N_plus_i_equals_n_xor_i" />
+    <configuration name="D60_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D60_DFS" />
+      <module name="Competitive Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D60_Representation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D60_Representation" />
       <module name="Competitive Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,22 +290,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IB_Iterative_PostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IB_Iterative_PostOrder" />
+    <configuration name="DSTAPLS_Distribute_Apples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSTAPLS_Distribute_Apples" />
       <module name="Competitive Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterviewBit_Min_Step_Infinite_Grid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewBit_Min_Step_Infinite_Grid" />
-      <module name="Competitive Programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample" />
+    <configuration name="MSNSADM1_Football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MSNSADM1_Football" />
       <module name="Competitive Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,19 +307,19 @@
     <list>
       <item itemvalue="Application.D11_is_array_contiguous" />
       <item itemvalue="Application.D8_find_duplicate_in_system" />
-      <item itemvalue="Application.D26_4_Keys_Keyboard" />
-      <item itemvalue="Application.InterviewBit_Min_Step_Infinite_Grid" />
-      <item itemvalue="Application.sample" />
-      <item itemvalue="Application.IB_Iterative_PostOrder" />
-      <item itemvalue="Application.D35_Count_Of_N_plus_i_equals_n_xor_i" />
+      <item itemvalue="Application.MSNSADM1_Football" />
+      <item itemvalue="Application.DSTAPLS_Distribute_Apples" />
+      <item itemvalue="Application.D60_Representation" />
+      <item itemvalue="Application.D60_BFS" />
+      <item itemvalue="Application.D60_DFS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sample" />
-        <item itemvalue="Application.D35_Count_Of_N_plus_i_equals_n_xor_i" />
-        <item itemvalue="Application.IB_Iterative_PostOrder" />
-        <item itemvalue="Application.InterviewBit_Min_Step_Infinite_Grid" />
-        <item itemvalue="Application.D26_4_Keys_Keyboard" />
+        <item itemvalue="Application.D60_DFS" />
+        <item itemvalue="Application.D60_BFS" />
+        <item itemvalue="Application.D60_Representation" />
+        <item itemvalue="Application.DSTAPLS_Distribute_Apples" />
+        <item itemvalue="Application.MSNSADM1_Football" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +502,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564485289068</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Changes ReadMe.md">
+      <created>1564486980580</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1564486980581</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Changes ReadMe.md">
+      <created>1564487125925</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1564487125925</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Codechef LongChallenge">
+      <created>1564845584769</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1564845584769</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -452,22 +536,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1080" y="-247" width="1080" height="1297" extended-state="0" />
+    <frame x="0" y="23" width="1080" height="955" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Learn" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" sideWeight="0.48458573" visible="true" weight="0.32380152" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48458573" weight="0.32380152" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.50578034" weight="0.33473507" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.50578034" visible="true" weight="0.33412042" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49614644" weight="0.3977475" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.5009634" weight="0.32811856" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49229288" weight="0.32821724" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6135531" weight="0.39551356" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49229288" weight="0.3280067" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6135531" weight="0.39529017" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32818073" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -476,7 +561,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Codota" order="5" weight="0.3298969" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="7" sideWeight="0.49421966" weight="0.82947975" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="7" sideWeight="0.49421966" weight="0.43256262" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +619,9 @@
     <MESSAGE value="DP 4 DONE!!!!&#10;Finally" />
     <MESSAGE value="Changes July 15th" />
     <MESSAGE value="Changes July 30th" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes July 30th" />
+    <MESSAGE value="Changes ReadMe.md" />
+    <MESSAGE value="Codechef LongChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codechef LongChallenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,95 +639,6 @@
     <SUITE FILE_PATH="coverage/Interview_Prep$D8_find_duplicate_in_system.ic" NAME="D8_find_duplicate_in_system Coverage Results" MODIFIED="1560953736795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D21_Longest_Increasing_Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="method#main#0;class#D21_Longest_Increasing_Sequence#0" />
-            <element signature="method#LIS#0;class#D21_Longest_Increasing_Sequence#0" />
-            <element signature="method#LISatAPoint#0;class#D21_Longest_Increasing_Sequence#0" />
-            <element signature="method#LongestIncreasingSequence#0;class#D21_Longest_Increasing_Sequence#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Rod_Cutting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="method#RodCut#0;class#D24_Rod_Cutting#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Rod_Cutting_Memoized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="method#RodCutMemoized#0;class#D24_Rod_Cutting_Memoized#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Coin_Change_Tabulated.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#D24_Coin_Change_Tabulated#0" />
-            <element signature="method#CoinChangeCombinations#0;class#D24_Coin_Change_Tabulated#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D25_Friends_Pairing_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack + Queue/D5_largest_rectangle_in_a_matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Coin_Change_Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#D24_Coin_Change_Permutations#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D24_Coin_Change_Permutation_Memoized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#762#770#0" expanded="true" />
-            <element signature="e#763#771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D25_Highway_Bikkboard_Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HashMap + Heap/D12_SubArrays_With_Equal_1s_n_0s.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1015,32 +1013,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Strings/sample.java">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic Code/CompetitiveProgrammingCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="273">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dyanamic Programming &amp; Greedy/D36_ChessBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="483">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basic Code/CompetitiveProgrammingCode.java">
+    <entry file="file://$PROJECT_DIR$/Arrays and Strings/sample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="336">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMap + Heap/D8_double_pair_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODECHEF/August-Long-Challenge/MSNSADM1_Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="19" selection-start-line="7" selection-start-column="7" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODECHEF/August-Long-Challenge/DSTAPLS_Distribute_Apples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/D60_Representation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/D60_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Graph#0;class#D60_BFS#0" />
+            <element signature="method#Graph#0;class#Graph#0;class#D60_BFS#0" />
+            <element signature="method#addEdge#0;class#Graph#0;class#D60_BFS#0" />
+            <element signature="method#printGraph#0;class#Graph#0;class#D60_BFS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphs/D60_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Graph#0;class#Graph#0;class#D60_DFS#0" />
+            <element signature="method#addEdge#0;class#Graph#0;class#D60_DFS#0" />
+            <element signature="method#printGraph#0;class#Graph#0;class#D60_DFS#0" />
+            <element signature="method#BFS#0;class#Graph#0;class#D60_DFS#0" />
           </folding>
         </state>
       </provider>
