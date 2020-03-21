@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class D16_Product_Of_Array_Except_Self {
@@ -13,6 +14,7 @@ public class D16_Product_Of_Array_Except_Self {
             nums[i] = (int)Math.round(Math.exp(sum-arr[i]));
         }
         return nums;
+
     }
 
     //Don't make changes here.
